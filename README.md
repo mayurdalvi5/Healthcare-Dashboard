@@ -31,6 +31,8 @@ The homepage offers a quick overview of key healthcare statistics:
 - **Total Cost Weight:** Total cost associated with patient care.
 - **Cost Weight per Stay:** Average cost for each stay type.
 - **Length of Stay & Stay Per Patient:** Provides information on the duration and frequency of patient stays.
+  
+  ![Homepage](./images/HomePage.png)
 
 ### 2. Summary Analysis
 The summary analysis page gives a more in-depth analysis of the following:
@@ -38,6 +40,8 @@ The summary analysis page gives a more in-depth analysis of the following:
 - **Number of Patients by Stay Type:** Comparison between inpatient and outpatient numbers.
 - **Cost per Stay by Facility and Specialty:** Displays financial metrics across different facilities and medical specializations.
 - **Patients by Facility and Stay Type:** Visualizes patient distribution across hospitals and stay types.
+  
+![Summary Analysis](./images/PatientSummaryAnalysis.png)
 
 ## KPIs
 
